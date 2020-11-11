@@ -30,8 +30,6 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
-/src/main/java/com/alibb/gmalluser/GmallUserApplication.java
 
 
 target/
